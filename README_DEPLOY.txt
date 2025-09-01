@@ -1,1 +1,1 @@
-Upload all files in this folder to your GitHub repo (root) and enable Pages.
+Upload all files to your repository root. The 'qr_print' folder contains QR PNGs for printing.
